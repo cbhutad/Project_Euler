@@ -1,0 +1,23 @@
+{
+  "name": "project_euler",
+  "version": "1.0.0",
+  "description": "Solutions to project euler problems on freecodecamp site",
+  "main": "index.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbhutad/Project_Euler.git"
+  },
+  "keywords": [
+    "problem-solving",
+    "javascript"
+  ],
+  "author": "Cheenmaya Bhutad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbhutad/Project_Euler/issues"
+  },
+  "homepage": "https://github.com/cbhutad/Project_Euler#readme"
+}

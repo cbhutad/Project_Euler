@@ -5,6 +5,8 @@ For the given problem we had to just check with or condition as the given number
 
 #### Pseudocode
 
+```
+
 SET sum to zero
 FOR each value from 1 to argumentNumber-1
 	IF value is divisble by 3 OR value is divisible by 5
@@ -13,3 +15,4 @@ FOR each value from 1 to argumentNumber-1
 ENDFOR
 RETURN sum
 
+```

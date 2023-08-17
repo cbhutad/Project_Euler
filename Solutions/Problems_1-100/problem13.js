@@ -45,7 +45,7 @@ function largeSum(arr) {
     return Number(result);
 }
 
-// Test data
+// Test data for testing
 
 /*
 37107287533902102798797998220837590246510135740250
